@@ -1,5 +1,5 @@
 # 👋 Preved, я BulbaReaper
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-light)
 
 
 <table align="center">
@@ -21,5 +21,5 @@
 </table>
 
 <p align="center">
-  👉 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>Нажмите, чтобы получить доступ к приватному репозиторию</strong></a>
+  👉 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>Проектики</strong></a>
 </p>
