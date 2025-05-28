@@ -1,8 +1,6 @@
-# 👋 Привет, я BulbaReaper
+# 👋 Preved, я BulbaReaper
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-dark)
 
-<p align="center">
-  <strong>🔥 Самый важный проект ниже ↓</strong>
-</p>
 
 <table align="center">
   <tr>
