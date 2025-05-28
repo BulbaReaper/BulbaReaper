@@ -1,5 +1,5 @@
 # 👋 Preved, я BulbaReaper
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeetleEve&theme=vision-friendly-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-light)
 
 
 <table align="center">
