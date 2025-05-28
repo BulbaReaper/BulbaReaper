@@ -1,7 +1,27 @@
-## Preved 👋 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BulbaReaper&layout=compact&theme=vision-friendly-dark)
-## Немного бесполезной инфы:
-- Учусь в Заполярном государственном университете(вроде)
-- Подсадил друга на танки(сам не играю)
-- Пока всё
+# 👋 Привет, я BulbaReaper
+
+<p align="center">
+  <strong>🔥 Самый важный проект ниже ↓</strong>
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="rickroll/rick_tile_0_0.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_0_1.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_0_2.gif" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="rickroll/rick_tile_1_0.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_1_1.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_1_2.gif" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="rickroll/rick_tile_2_0.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_2_1.gif" width="100"></td>
+    <td><img src="rickroll/rick_tile_2_2.gif" width="100"></td>
+  </tr>
+</table>
+
+<p align="center">
+  👉 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>Нажмите, чтобы получить доступ к приватному репозиторию</strong></a>
+</p>
