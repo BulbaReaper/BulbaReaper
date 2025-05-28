@@ -1,7 +1,6 @@
 # 👋 Preved, я BulbaReaper
-<o align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-light)
-</o>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-light)
 
 <table align="center">
   <tr>
