@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-light)
 
+# Если вы видите размытого Рика, то так и должно быть (честно)
+
 <table align="center">
   <tr>
     <td><img src="rickroll/rick_tile_0_0.gif" width="200" height="200"></td>
