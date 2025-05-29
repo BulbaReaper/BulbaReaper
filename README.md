@@ -1,6 +1,6 @@
 # 👋 Preved, я BulbaReaper
 
-<h3 align="center">- Пытаюсь понять C++ и C# в университете в данный момент, дополнительно изучаю Python -</h3>
+<h3 align="center"> Пытаюсь понять C++ и C# в университете в данный момент, дополнительно изучаю Python </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BulbaReaper&theme=vision-friendly-light)
 
